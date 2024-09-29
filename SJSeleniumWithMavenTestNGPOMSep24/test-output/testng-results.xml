@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-29T11:52:16 IST" name="Default suite" finished-at="2024-09-29T11:52:28 IST" duration-ms="11217">
+    <groups>
+    </groups>
+    <test started-at="2024-09-29T11:52:16 IST" name="Default test" finished-at="2024-09-29T11:52:28 IST" duration-ms="11217">
+      <class name="org.skilljourney.trainings.pom.tests.BasicFormsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:16 IST" name="setUp" finished-at="2024-09-29T11:52:20 IST" duration-ms="4004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="gobackToMainPage()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:22 IST" name="gobackToMainPage" finished-at="2024-09-29T11:52:24 IST" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobackToMainPage -->
+        <test-method signature="testSubmitBasicForm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:24 IST" name="testSubmitBasicForm" data-provider="getBasicFormsDataFromExcel" finished-at="2024-09-29T11:52:24 IST" duration-ms="781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ameya Naik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Message 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitBasicForm -->
+        <test-method is-config="true" signature="gobackToMainPage()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:24 IST" name="gobackToMainPage" finished-at="2024-09-29T11:52:24 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobackToMainPage -->
+        <test-method signature="testSubmitBasicForm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:24 IST" name="testSubmitBasicForm" data-provider="getBasicFormsDataFromExcel" finished-at="2024-09-29T11:52:25 IST" duration-ms="606" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ruchira Joshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Message 2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitBasicForm -->
+        <test-method is-config="true" signature="gobackToMainPage()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:25 IST" name="gobackToMainPage" finished-at="2024-09-29T11:52:25 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobackToMainPage -->
+        <test-method signature="testSubmitBasicForm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:25 IST" name="testSubmitBasicForm" data-provider="getBasicFormsDataFromExcel" finished-at="2024-09-29T11:52:26 IST" duration-ms="667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pratik Kadam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Message 3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitBasicForm -->
+        <test-method is-config="true" signature="gobackToMainPage()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:26 IST" name="gobackToMainPage" finished-at="2024-09-29T11:52:26 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobackToMainPage -->
+        <test-method signature="testSubmitBasicForm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:26 IST" name="testSubmitBasicForm" data-provider="getBasicFormsDataFromExcel" finished-at="2024-09-29T11:52:26 IST" duration-ms="699" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tushar Turkane]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Message 4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitBasicForm -->
+        <test-method is-config="true" signature="gobackToMainPage()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:26 IST" name="gobackToMainPage" finished-at="2024-09-29T11:52:27 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gobackToMainPage -->
+        <test-method signature="testSubmitBasicForm(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:27 IST" name="testSubmitBasicForm" data-provider="getBasicFormsDataFromExcel" finished-at="2024-09-29T11:52:27 IST" duration-ms="694" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monika Bhivarkar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Message 5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitBasicForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.skilljourney.trainings.pom.tests.BasicFormsTest@6fa51cd4]" started-at="2024-09-29T11:52:27 IST" name="closeBrowser" finished-at="2024-09-29T11:52:28 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.skilljourney.trainings.pom.tests.BasicFormsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
