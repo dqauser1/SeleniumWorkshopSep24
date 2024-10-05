@@ -3,7 +3,7 @@ package org.skilljourney.trainings.pom.tests;
 import java.io.IOException;
 
 import org.skilljourney.trainings.pom.common.POMSeleniumBase;
-import org.skilljourney.trainings.pom.common.ReadFromExcel;
+import org.skilljourney.trainings.pom.utilities.ReadFromExcel;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;

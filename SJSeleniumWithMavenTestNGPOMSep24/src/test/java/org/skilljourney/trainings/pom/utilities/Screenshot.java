@@ -1,4 +1,4 @@
-package org.skilljourney.trainings.pom.common;
+package org.skilljourney.trainings.pom.utilities;
 
 import java.io.File;
 import java.io.IOException;
